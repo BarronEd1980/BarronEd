@@ -1,5 +1,4 @@
 # BarronEd
-About Me
 ### Hi, I'm Edu 👋
 
 Sales & GTM leader working at the intersection of **Travel · AI · Subscriptions · Payments**, based in Madrid.
